@@ -1,0 +1,1 @@
+pode por todos arquivos e pastas e dlls dentro desse diretorio
